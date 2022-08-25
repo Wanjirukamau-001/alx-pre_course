@@ -1,6 +1,2 @@
-#!/bin/bash
-School
-#!/bin/bash
- echo "School"
-#!/bin/bash
-echo "School" 
+#!/bin/bash\n
+The school is open!
